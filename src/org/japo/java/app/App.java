@@ -15,8 +15,7 @@
  */
 package org.japo.java.app;
 
-import org.japo.java.libraries.UtilesCalculos;
-import org.japo.java.libraries.UtilesEntrada;
+
 
 /**
  *
@@ -25,7 +24,7 @@ import org.japo.java.libraries.UtilesEntrada;
 public final class App {
 
     public final void LaunchApp() {
-        System.out.println("Algo complicado Z");
+        System.out.println("Algo complicado A2 + Z");
     }
 
 }
