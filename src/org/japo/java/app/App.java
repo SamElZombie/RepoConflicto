@@ -15,8 +15,7 @@
  */
 package org.japo.java.app;
 
-import org.japo.java.libraries.UtilesCalculos;
-import org.japo.java.libraries.UtilesEntrada;
+
 
 /**
  *
@@ -25,10 +24,7 @@ import org.japo.java.libraries.UtilesEntrada;
 public final class App {
 
     public final void LaunchApp() {
-        System.out.println("Demo Librería UtilesCalculos");
-        System.out.println("============================");
-        int n = UtilesEntrada.leerEntero("Número entero ...: ", "Error de entrada, intentelo de nuevo");
-        UtilesCalculos.TestUtilesCalculo(n);
+        System.out.println("Algo complicado A");
     }
 
 }
