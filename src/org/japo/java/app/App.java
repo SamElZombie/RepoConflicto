@@ -24,7 +24,7 @@ package org.japo.java.app;
 public final class App {
 
     public final void LaunchApp() {
-        System.out.println("Algo complicado A");
+        System.out.println("Algo complicado A2");
     }
 
 }
